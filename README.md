@@ -1,1 +1,1 @@
-This is all the code i made while learning Python.
+This is all the code I made while learning Python.
